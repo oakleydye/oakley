@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://oakleydye.github.io/PersonalSite/sitemap.xml
+Sitemap: http://oakleydye.github.io/oakley/sitemap.xml
