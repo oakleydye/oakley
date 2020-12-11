@@ -328,11 +328,11 @@ input[type="radio"] + label:before { border-radius: 100%; }
 
 @media screen and (max-width: 736px) { .icon.major { font-size: 1.1em; } }
 
-.icon.style1 { color: #c60000; }
+.icon.style1 { color: #ffffff; }
 
-.icon.style2 { color: #ca0000; }
+.icon.style2 { color: #ffffff; }
 
-.icon.style3 { color: #cf0000; }
+.icon.style3 { color: #ffffff; }
 
 .icon.styleN { font-size: 1.75em; }
 
@@ -509,7 +509,7 @@ input.disabled[type="submit"], input[type="submit"]:disabled, input.disabled[typ
 
 .features li:nth-child(10) { background-color: rgba(0, 0, 0, 0.35); }
 
-.features li:before { display: block; color: #c60000; position: absolute; left: 1.75em; top: 2.75em; font-size: 1.5em; }
+.features li:before { display: block; color: #ffffff; position: absolute; left: 1.75em; top: 2.75em; font-size: 1.5em; }
 
 .features li:nth-child(1) { border-top-left-radius: 3px; }
 
@@ -624,9 +624,9 @@ input.disabled[type="submit"], input[type="submit"]:disabled, input.disabled[typ
 
 .breadcrumb table.alt tbody tr td { border-color: #dfdfdf; }
 
-.breadcrumb table.alt tbody tr td.Nvar0 { border-color: rgba(0, 0, 0, 0.125); color: #4E4852; background-color: #ca0000; }
+.breadcrumb table.alt tbody tr td.Nvar0 { border-color: rgba(0, 0, 0, 0.125); color: #4E4852; background-color: #ffffff; }
 
-.breadcrumb table.alt tbody tr td.Nvar1 { border-color: rgba(0, 0, 0, 0.125); color: #4E4852; background-color: #c60000; }
+.breadcrumb table.alt tbody tr td.Nvar1 { border-color: rgba(0, 0, 0, 0.125); color: #4E4852; background-color: #ffffff; }
 
 .breadcrumb table.alt tbody tr td.Nvar2 { border-color: #bfbfbf; color: #2E3842; background-color: #dfdfdf; }
 
@@ -746,9 +746,9 @@ input.disabled[type="submit"], input[type="submit"]:disabled, input.disabled[typ
 
 .wrapper.style1 table.alt tbody tr td { border-color: rgba(0, 0, 0, 0.125); }
 
-.wrapper.style1 table.alt tbody tr td.Nvar0 { border-color: rgba(0, 0, 0, 0.125); color: #4E4852; background-color: #ca0000; }
+.wrapper.style1 table.alt tbody tr td.Nvar0 { border-color: rgba(0, 0, 0, 0.125); color: #4E4852; background-color: #ffffff; }
 
-.wrapper.style1 table.alt tbody tr td.Nvar1 { border-color: rgba(0, 0, 0, 0.125); color: #4E4852; background-color: #c60000; }
+.wrapper.style1 table.alt tbody tr td.Nvar1 { border-color: rgba(0, 0, 0, 0.125); color: #4E4852; background-color: #ffffff; }
 
 .wrapper.style1 table.alt tbody tr td.Nvar2 { border-color: #bfbfbf; color: #2E3842; background-color: #dfdfdf; }
 
@@ -844,9 +844,9 @@ input.disabled[type="submit"], input[type="submit"]:disabled, input.disabled[typ
 
 .wrapper.style3 table.alt tbody tr td { border-color: rgba(0, 0, 0, 0.125); }
 
-.wrapper.style3 table.alt tbody tr td.Nvar0 { border-color: rgba(0, 0, 0, 0.125); color: #4E4852; background-color: #ca0000; }
+.wrapper.style3 table.alt tbody tr td.Nvar0 { border-color: rgba(0, 0, 0, 0.125); color: #4E4852; background-color: #ffffff; }
 
-.wrapper.style3 table.alt tbody tr td.Nvar1 { border-color: rgba(0, 0, 0, 0.125); color: #4E4852; background-color: #c60000; }
+.wrapper.style3 table.alt tbody tr td.Nvar1 { border-color: rgba(0, 0, 0, 0.125); color: #4E4852; background-color: #ffffff; }
 
 .wrapper.style3 table.alt tbody tr td.Nvar2 { border-color: #bfbfbf; color: #2E3842; background-color: #dfdfdf; }
 
@@ -942,9 +942,9 @@ input.disabled[type="submit"], input[type="submit"]:disabled, input.disabled[typ
 
 .wrapper.style5 table.alt tbody tr td { border-color: #dfdfdf; }
 
-.wrapper.style5 table.alt tbody tr td.Nvar0 { border-color: rgba(0, 0, 0, 0.125); color: #4E4852; background-color: #ca0000; }
+.wrapper.style5 table.alt tbody tr td.Nvar0 { border-color: rgba(0, 0, 0, 0.125); color: #4E4852; background-color: #ffffff; }
 
-.wrapper.style5 table.alt tbody tr td.Nvar1 { border-color: rgba(0, 0, 0, 0.125); color: #4E4852; background-color: #c60000; }
+.wrapper.style5 table.alt tbody tr td.Nvar1 { border-color: rgba(0, 0, 0, 0.125); color: #4E4852; background-color: #ffffff; }
 
 .wrapper.style5 table.alt tbody tr td.Nvar2 { border-color: #bfbfbf; color: #2E3842; background-color: #dfdfdf; }
 
