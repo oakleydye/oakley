@@ -5,8 +5,8 @@
     <description>Full Stack Software Engineer</description>
     <link>http://oakleydye.github.io/oakley/</link>
     <atom:link href="http://oakleydye.github.io/oakley/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 16 Dec 2020 21:52:27 -0700</pubDate>
-    <lastBuildDate>Wed, 16 Dec 2020 21:52:27 -0700</lastBuildDate>
+    <pubDate>Wed, 16 Dec 2020 22:22:38 -0700</pubDate>
+    <lastBuildDate>Wed, 16 Dec 2020 22:22:38 -0700</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -43,6 +43,27 @@
         <category>PowerPoint</category>
         
         <category>Photoshop</category>
+        
+        
+        <category>experiences</category>
+        
+      </item>
+    
+      <item>
+        <title>Co-Founder, Senior Developer - Anasi Business Solutions</title>
+        <description>
+</description>
+        <pubDate>Thu, 10 Dec 2020 00:00:00 -0700</pubDate>
+        <link>http://oakleydye.github.io/oakley/experiences/co-founder-senior-developer-anasi-business-solutions.html</link>
+        <guid isPermaLink="true">http://oakleydye.github.io/oakley/experiences/co-founder-senior-developer-anasi-business-solutions.html</guid>
+        
+        <category>C#</category>
+        
+        <category>SQL</category>
+        
+        <category>WPF</category>
+        
+        <category>GIT</category>
         
         
         <category>experiences</category>
