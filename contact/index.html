@@ -99,13 +99,26 @@
       </div>
       <div class="12u$">
         <ul class="actions">
-              <a href="/oakley/contact-success/">
-                <li><input type="submit" value="Send Message" class="special" /></li>
-              </a>
+                <li><input type="submit" value="Send Message" class="special" onclick="myFunction()"/></li>
+             
         </ul>
       </div>
     </div>
   </form>
+
+  <div class="row uniform" id="success_section" display="none">
+    <p>Thanks for reaching out, I'll be in touch soon! In the meantime, check out some 
+      <a target="_blank" href="<https://music.apple.com/us/playlist/for-the-website/pl.u-AkAmz59uleMAVkB>">cool tunes!</a>
+    </p>
+  </div>
+  <script>
+    function myFunction(){
+      var x = document.getElementById("success_section");
+      if (x.style.display === "none"){
+        x.style.display = "block";
+      }
+    }
+  </script>
 </section>
 
     </div>
